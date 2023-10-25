@@ -1,0 +1,14 @@
+.model {
+  width: 280px;
+  height: 400px;
+  background-image: url(../../public/glassesImage/model.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: auto;
+}
+.glass_test {
+  position: absolute;
+  top: 22%;
+  left: 43.5%;
+}
